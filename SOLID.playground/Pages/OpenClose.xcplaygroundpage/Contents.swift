@@ -79,7 +79,7 @@ class Sqare_OCP: Shape {
     }
     
     func calculateArea() -> Double {
-        return 4 * side
+        return side * side
     }
 }
 
